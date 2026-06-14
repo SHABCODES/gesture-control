@@ -27,7 +27,7 @@ Beginner-friendly AI + Computer Vision project
 
 ---
 
-# 🧠 Gesture Controls
+# Gesture Controls
 
 | Gesture          | Action          |
 | ---------------- | --------------- |
